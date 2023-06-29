@@ -1,4 +1,5 @@
 # Kick Spotify Bot
+A Kick.com bot that will allow chatters to add songs to your spotify queue.
 
 This requires you to have [Go](https://go.dev/) and [Python](https://www.python.org/) installed.
 
