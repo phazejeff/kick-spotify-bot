@@ -14,5 +14,11 @@ This requires you to have [Go](https://go.dev/) and [Python](https://www.python.
 
 ## Usage
 
+### To start bot
 1. Run `go run bypass.go`
 2. Run `python main.py`
+
+### Commands
+
+- `!requestsong [Spotify URL]` - Adds a song to the queue. Spotify MUST be open and playing something for this to work.
+- `!song` - Sends the current playing song to chat.
