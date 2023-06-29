@@ -1,0 +1,7 @@
+/.env
+/venv
+/bypass.go
+/go.mod
+/go.sum
+/.cache
+/__pycache__
